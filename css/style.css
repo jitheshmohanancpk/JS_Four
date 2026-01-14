@@ -1,0 +1,31 @@
+#mainImage {
+    width: 600px;
+    height: 400px;
+    object-fit: cover; /* Keeps aspect ratio consistent */
+    border-radius: 8px;
+}
+.gallery-container{
+    text-align:center;
+    padding-top:30px;  
+}
+.main_heading_sec{
+    font-size:27px;
+    font-weight:bold;
+    text-align:center;
+    padding-top:20px;
+}
+#prevBtn{
+background-color: #32CD32;
+color:#ffffff;
+padding:12px;
+border: #32CD32;
+}
+#nextBtn{
+background-color: #32CD32;
+color:#ffffff;
+padding:12px;  
+border: #32CD32;
+}
+.controls{
+    padding-top:20px;
+}
